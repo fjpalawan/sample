@@ -14,6 +14,14 @@
 	margin-bottom: 8px;
 }
 
+.error-field {
+	border: 1px solid #ff0000;
+}
+
+.error-message {
+	color: red;
+}
+
 label {
 	width: 100px;
 	display: inline-block;
