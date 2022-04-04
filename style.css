@@ -18,3 +18,7 @@ label {
 	width: 100px;
 	display: inline-block;
 }
+
+p {
+	width: 100px;
+}
